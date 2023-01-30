@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Competition task2", "Competition task2\Competition task2.dtproj", "{A6E8B355-BA4B-43F7-B74A-5A173DA447C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E8B355-BA4B-43F7-B74A-5A173DA447C2}.Development|Default.ActiveCfg = Development
+		{A6E8B355-BA4B-43F7-B74A-5A173DA447C2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D8CCB5-8B19-4FC2-92F1-8B114A31397B}
+	EndGlobalSection
+EndGlobal
